@@ -20,7 +20,6 @@
 20. Thor: Ragnarok (2017)
 21. Avengers: Infinity War (2017)
 22. Ant-Man and the Wasp (2017)
-<<<<<<< HEAD
 23. Avengers: Endgame (2017-2022)
 24. Shang-Chi and the Legend of the Ten Rings (2023)
 25. Spider-Man: Far From Home (2023)
@@ -29,6 +28,3 @@
 28. Dr. Strange in the Multiverse of Madness (2025)
 29. Thor: Love and Thunder (2025)
 30. Black Panther: Wakanda Forever (2025)
-=======
-23. Avengers: Endgame (2017-2022)
->>>>>>> parent of b9de9c4 (Película 24)
